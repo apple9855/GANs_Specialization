@@ -20,3 +20,7 @@ Generative Adversarial Networks Specialization_Coursera_Provided by deeplearning
 1. GANs for Data Augmentation and Privacy
 2. Image-to-Image Translation with Pix2Pix
 3. Unpaired Translation with CycleGAN
+
+
+## My Notes in Notion: https://www.notion.so/GANs-Specialization-a1eff3b241cb41f284469f08ca680a5f?pvs=4 
+
